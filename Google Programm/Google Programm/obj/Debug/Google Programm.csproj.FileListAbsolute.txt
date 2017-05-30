@@ -1,0 +1,9 @@
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\Google Programm\Google Programm\bin\Debug\Google Programm.exe.config
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\Google Programm\Google Programm\bin\Debug\Google Programm.exe
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\Google Programm\Google Programm\bin\Debug\Google Programm.pdb
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\Google Programm\Google Programm\obj\Debug\Google Programm.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\Google Programm\Google Programm\obj\Debug\Google_Programm.Form1.resources
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\Google Programm\Google Programm\obj\Debug\Google_Programm.Properties.Resources.resources
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\Google Programm\Google Programm\obj\Debug\Google Programm.csproj.GenerateResource.Cache
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\Google Programm\Google Programm\obj\Debug\Google Programm.exe
+C:\Users\Artur\Documents\Visual Studio 2015\Projects\Google Programm\Google Programm\obj\Debug\Google Programm.pdb
